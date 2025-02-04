@@ -1,7 +1,6 @@
-# Monico: an Icon Pack for Monobloc
-
 ![002](https://github.com/user-attachments/assets/f08fb571-9720-47b9-b88e-108b089387dd)
 
+# Monico: an Icon Pack for Monobloc
 
 Monico is a custom icon pack designed specifically for the Monobloc solution by [crc.studio](https://crc.studio/). It features a collection of versatile icons to enhance your design system, creating a cohesive visual language for your projects.
 
