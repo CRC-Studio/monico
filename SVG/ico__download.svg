@@ -1,16 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #1d1d1b;
-      }
-    </style>
-  </defs>
-  <rect class="cls-1" x="65.09" y="64.9" width="109.8" height="20" transform="translate(194.89 -45.09) rotate(90)"/>
-  <rect class="cls-1" x="102.57" y="106.21" width="70.71" height="20" transform="translate(317.62 100.85) rotate(135)"/>
-  <rect class="cls-1" x="66.72" y="106.21" width="70.69" height="20" transform="translate(112.07 -38.13) rotate(45)"/>
-  <rect class="cls-1" x="110" y="110" width="20" height="200" transform="translate(-90 330) rotate(-90)"/>
-  <rect class="cls-1" x="0" y="180" width="59.99" height="20" transform="translate(-160 220) rotate(-90)"/>
-  <rect class="cls-1" x="180" y="180" width="59.99" height="20" transform="translate(20 400) rotate(-90)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <rect x="65.09" y="64.9" width="109.8" height="20" transform="translate(194.89 -45.09) rotate(90)"/>
+  <rect x="102.57" y="106.21" width="70.71" height="20" transform="translate(317.62 100.85) rotate(135)"/>
+  <rect x="66.72" y="106.21" width="70.69" height="20" transform="translate(112.07 -38.13) rotate(45)"/>
+  <rect x="110" y="110" width="20" height="200" transform="translate(-90 330) rotate(-90)"/>
+  <rect x="0" y="180" width="59.99" height="20" transform="translate(-160 220) rotate(-90)"/>
+  <rect x="180" y="180" width="59.99" height="20" transform="translate(20 400) rotate(-90)"/>
 </svg>
