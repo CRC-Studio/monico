@@ -4,12 +4,16 @@
 
 Monico is a free icon pack designed by [crc.studio](https://crc.studio/), fine-tuned for [Graphik](https://commercialtype.com/catalog/graphik), the typeface by Christian Schwartz for Commercial Type. Optimized for UI, print, and signage, it provides a consistent and versatile set of icons to enhance any design system.
 
+## Free & Evolving
+Monico is free to use in any project, from digital interfaces to printed materials. The icon set will continue to evolve, with new icons added regularly. If you need specific icons or have any suggestions, feel free to contact [hello@crc.studio](mailto:hello@crc.studio) or [@crc.studio](https://www.instagram.com/crc.studio/).
+
 ## Monico: Designed for Monobloc
 
 Before becoming an independent project, Monico was originally created for Mono, the design system developed by [crc.studio](https://crc.studio/). Specifically designed for Monobloc, our modular WordPress solution, it was crafted to ensure seamless integration within a structured design environment.
 
-## Free & Evolving
-Monico is free to use in any project, from digital interfaces to printed materials. The icon set will continue to evolve, with new icons added regularly. If you need specific icons or have any suggestions, feel free to contact [hello@crc.studio](mailto:hello@crc.studio) or [@crc.studio](https://www.instagram.com/crc.studio/).
+## About ToolToy
+
+Monico is our latest ToolToy! CRC Studio’s ToolToys are small apps that make design and development faster, easier, and more fun.
 
 ## About crc.studio
 
