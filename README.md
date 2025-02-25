@@ -1,13 +1,20 @@
-![002](https://github.com/user-attachments/assets/f08fb571-9720-47b9-b88e-108b089387dd)
+![GitHub](https://github.com/user-attachments/assets/0b440d25-6df2-414d-853a-91bfd782fa42)
 
-# Monico: an Icon Pack for Monobloc
+## Monico: an Icon Pack for Graphik
 
-Monico is a custom icon pack designed specifically for the Monobloc solution by [crc.studio](https://crc.studio/). It features a collection of versatile icons to enhance your design system, creating a cohesive visual language for your projects.
+Monico is a free icon pack designed by [crc.studio](https://crc.studio/), fine-tuned for [Graphik](https://commercialtype.com/catalog/graphik), the typeface by Christian Schwartz for Commercial Type. Optimized for UI, print, and signage, it provides a consistent and versatile set of icons to enhance any design system.
 
-## About Monobloc
+## Free & Evolving
+Monico is free to use in any project, from digital interfaces to printed materials. The icon set will continue to evolve, with new icons added regularly. If you need specific icons or have any suggestions, feel free to contact [hello@crc.studio](mailto:hello@crc.studio) or [@crc.studio](https://www.instagram.com/crc.studio/).
 
-Monobloc is a modular solution developed by [crc.studio](https://crc.studio/) to create custom WordPress themes. It’s designed to be flexible and scalable, with a focus on maintaining performance and security over time. Monobloc allows for easy customization and smooth updates, adapting to the evolving needs of your website.
+## Monico: Designed for Monobloc
 
-## About CRC Studio
+Before becoming an independent project, Monico was originally created for Mono, the design system developed by [crc.studio](https://crc.studio/). Specifically designed for Monobloc, our modular WordPress solution, it was crafted to ensure seamless integration within a structured design environment.
 
-[crc.studio](https://crc.studio/) is a design & development studio founded in 2019 by Yoko Homareda and Rémi B. Loizeau. Based in France, we travel all over the world to discover beauty and good ideas. For each project, such as visual identities, websites, posters, books, packaging or merchandise, we enjoy working as a team with other artists and designers.
+## About ToolToy
+
+Monico is our latest ToolToy! CRC Studio’s ToolToys are small apps that make design and development faster, easier, and more fun.
+
+## About crc.studio
+
+[crc.studio](https://crc.studio/) is a design & development studio founded in 2019 by Yoko Homareda and Rémi B. Loizeau. Based in France, the studio collaborates with artists and designers worldwide to explore aesthetics and innovation. With a focus on timeless art direction, projects range from visual identities and websites to posters, books, packaging, and merchandise.
