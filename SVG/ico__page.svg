@@ -1,9 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
-  <rect x="40" y="19.98" width="20" height="200.02"/>
-  <rect x="180" y="19.98" width="20" height="200.02"/>
-  <rect x="110" y="-40.02" width="20" height="140" transform="translate(90.02 149.98) rotate(-90)"/>
-  <rect x="110" y="140" width="20" height="140" transform="translate(-90 330) rotate(-90)"/>
-  <rect x="110" y="89.99" width="20" height="80" transform="translate(-9.99 249.99) rotate(-90)"/>
-  <rect x="110" y="50" width="20" height="80" transform="translate(30 210) rotate(-90)"/>
-  <rect x="90" y="150.01" width="20" height="40" transform="translate(-70.01 270.01) rotate(-90)"/>
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M190 20H40V220.02H60H180H200V20H190ZM60 200.02V40H180V200.02H60Z" fill="black"/>
+<path d="M160 120.01H80V140.01H160V120.01Z" fill="black"/>
+<path d="M160 80.02H80V100.02H160V80.02Z" fill="black"/>
+<path d="M120 160.03H80V180.03H120V160.03Z" fill="black"/>
 </svg>

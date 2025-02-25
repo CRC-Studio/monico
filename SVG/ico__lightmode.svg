@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
-  <path d="M120,70c-27.61,0-50,22.39-50,50s22.39,50,50,50,50-22.39,50-50-22.39-50-50-50ZM120,150c-16.57,0-30-13.43-30-30s13.43-30,30-30,30,13.43,30,30-13.43,30-30,30Z"/>
-  <rect x="110" y="20" width="20" height="30"/>
-  <rect x="49.9" y="44.9" width="20" height="30" transform="translate(-24.81 59.9) rotate(-45)"/>
-  <rect x="25" y="105" width="20" height="30" transform="translate(-85 155) rotate(-90)"/>
-  <rect x="49.9" y="165.1" width="20" height="30" transform="translate(-25.1 349.81) rotate(-135)"/>
-  <rect x="110" y="190" width="20" height="30" transform="translate(240 410) rotate(-180)"/>
-  <rect x="170.1" y="165.1" width="20" height="30" transform="translate(434.81 180.1) rotate(135)"/>
-  <rect x="195" y="105" width="20" height="30" transform="translate(325 -85) rotate(90)"/>
-  <rect x="170.1" y="44.9" width="20" height="30" transform="translate(95.1 -109.81) rotate(45)"/>
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M120 70C92.39 70 70 92.39 70 120C70 147.61 92.39 170 120 170C147.61 170 170 147.61 170 120C170 92.39 147.61 70 120 70ZM120 150C103.43 150 90 136.57 90 120C90 103.43 103.43 90 120 90C136.57 90 150 103.43 150 120C150 136.57 136.57 150 120 150Z" fill="black"/>
+<path d="M130 20H110V50H130V20Z" fill="black"/>
+<path d="M56.3616 42.2224L42.2195 56.3645L63.4327 77.5777L77.5748 63.4356L56.3616 42.2224Z" fill="black"/>
+<path d="M20 110V130H50V110H20Z" fill="black"/>
+<path d="M42.2166 183.644L56.3587 197.786L77.5719 176.573L63.4298 162.431L42.2166 183.644Z" fill="black"/>
+<path d="M110 220H130V190H110V220Z" fill="black"/>
+<path d="M183.65 197.778L197.792 183.635L176.579 162.422L162.437 176.564L183.65 197.778Z" fill="black"/>
+<path d="M220 130V110H190V130H220Z" fill="black"/>
+<path d="M197.772 56.356L183.63 42.2139L162.417 63.4271L176.559 77.5692L197.772 56.356Z" fill="black"/>
 </svg>

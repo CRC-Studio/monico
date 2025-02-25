@@ -1,4 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
-  <polygon points="104.13 84.15 89.99 70 40 119.99 40 119.99 40 119.99 90 169.99 104.14 155.85 78.28 129.99 159.99 129.99 159.99 109.99 78.28 109.99 104.13 84.15"/>
-  <rect x="179.99" y="40" width="20" height="160"/>
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_11_187)">
+<path d="M104.13 84.15L89.99 70L40 119.99L90 170L104.14 155.85L78.28 129.99H159.99V109.99H78.28L104.13 84.15Z" fill="black"/>
+<path d="M199.99 40H179.99V200H199.99V40Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_11_187">
+<rect width="159.99" height="160" fill="white" transform="translate(40 40)"/>
+</clipPath>
+</defs>
 </svg>
