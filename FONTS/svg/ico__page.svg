@@ -1,6 +1,6 @@
-<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M190 20H40V220.02H60H180H200V20H190ZM60 200.02V40H180V200.02H60Z" fill="black"/>
-<path d="M160 120.01H80V140.01H160V120.01Z" fill="black"/>
-<path d="M160 80.02H80V100.02H160V80.02Z" fill="black"/>
-<path d="M120 160.03H80V180.03H120V160.03Z" fill="black"/>
+<svg width="160" height="201" viewBox="0 0 160 201" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0V200.02H160V0H0ZM20 180.02V20H140V180.02H20Z" fill="black"/>
+<path d="M120 100.01H40V120.01H120V100.01Z" fill="black"/>
+<path d="M120 60.02H40V80.02H120V60.02Z" fill="black"/>
+<path d="M80 140.03H40V160.03H80V140.03Z" fill="black"/>
 </svg>

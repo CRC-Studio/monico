@@ -1,5 +1,5 @@
-<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M215 110H25V130H215V110Z" fill="black"/>
-<path d="M215 60H25V80H215V60Z" fill="black"/>
-<path d="M215 160H25V180H215V160Z" fill="black"/>
+<svg width="190" height="120" viewBox="0 0 190 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M190 50H0V70H190V50Z" fill="black"/>
+<path d="M190 0H0V20H190V0Z" fill="black"/>
+<path d="M190 100H0V120H190V100Z" fill="black"/>
 </svg>

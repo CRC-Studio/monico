@@ -1,11 +1,11 @@
-<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M160 170H140V190H160V170Z" fill="black"/>
-<path d="M220 130H200V170H220V130Z" fill="black"/>
-<path d="M40 130H20V170H40V130Z" fill="black"/>
-<path d="M100 170H80V190H100V170Z" fill="black"/>
-<path d="M160 90H80V70H60V110H40V130H60V170H80V150H160V170H180V130H200V110H180V70H160V90ZM80 130V110H100V130H80ZM160 130H140V110H160V130Z" fill="black"/>
-<path d="M200 50H180V70H200V50Z" fill="black"/>
-<path d="M220 70H200V90H220V70Z" fill="black"/>
-<path d="M60 50H40V70H60V50Z" fill="black"/>
-<path d="M40 70H20V90H40V70Z" fill="black"/>
+<svg width="200" height="140" viewBox="0 0 200 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M140 120H120V140H140V120Z" fill="black"/>
+<path d="M200 80H180V120H200V80Z" fill="black"/>
+<path d="M20 80H0V120H20V80Z" fill="black"/>
+<path d="M80 120H60V140H80V120Z" fill="black"/>
+<path d="M140 40H60V20H40V60H20V80H40V120H60V100H140V120H160V80H180V60H160V20H140V40ZM60 80V60H80V80H60ZM140 80H120V60H140V80Z" fill="black"/>
+<path d="M180 0H160V20H180V0Z" fill="black"/>
+<path d="M200 20H180V40H200V20Z" fill="black"/>
+<path d="M40 0H20V20H40V0Z" fill="black"/>
+<path d="M20 20H0V40H20V20Z" fill="black"/>
 </svg>

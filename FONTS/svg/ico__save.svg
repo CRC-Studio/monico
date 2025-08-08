@@ -1,9 +1,9 @@
-<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="40" y="60" width="20" height="120" fill="black"/>
-<rect x="180" y="80" width="20" height="100" fill="black"/>
-<rect x="40" y="200" width="20" height="160" transform="rotate(-90 40 200)" fill="black"/>
-<rect x="40" y="60" width="20" height="120" transform="rotate(-90 40 60)" fill="black"/>
-<rect x="90" y="80" width="20" height="30" transform="rotate(-90 90 80)" fill="black"/>
-<rect x="160.142" y="40" width="56.5854" height="20" transform="rotate(45 160.142 40)" fill="black"/>
-<path d="M120 100C103.43 100 90 113.43 90 130C90 146.57 103.43 160 120 160C136.57 160 150 146.57 150 130C150 113.43 136.57 100 120 100ZM120 140C114.48 140 110 135.52 110 130C110 124.48 114.48 120 120 120C125.52 120 130 124.48 130 130C130 135.52 125.52 140 120 140Z" fill="black"/>
+<svg width="161" height="160" viewBox="0 0 161 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.99117e-07 20H20V140H9.99117e-07V20Z" fill="black"/>
+<path d="M140 40H160V140H140V40Z" fill="black"/>
+<path d="M9.99117e-07 160V140H160V160H9.99117e-07Z" fill="black"/>
+<path d="M9.99117e-07 20L0 4.5897e-06L120 0V20L9.99117e-07 20Z" fill="black"/>
+<path d="M50 40V20H80V40H50Z" fill="black"/>
+<path d="M120.142 7.74998e-07L160.154 40.0119L146.012 54.1541L106 14.1421L120.142 7.74998e-07Z" fill="black"/>
+<path d="M80 60C63.43 60 50 73.43 50 90C50 106.57 63.43 120 80 120C96.57 120 110 106.57 110 90C110 73.43 96.57 60 80 60ZM80 100C74.48 100 70 95.52 70 90C70 84.48 74.48 80 80 80C85.52 80 90 84.48 90 90C90 95.52 85.52 100 80 100Z" fill="black"/>
 </svg>
