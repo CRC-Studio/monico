@@ -1,7 +1,3 @@
 <svg width="160" height="100" viewBox="0 0 160 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 8.74228e-07H160V20H0V8.74228e-07Z" fill="black"/>
-<path d="M0 100V8.74228e-07L20 0L20 100H0Z" fill="black"/>
-<path d="M140 100V8.74228e-07H160V100H140Z" fill="black"/>
-<path d="M0 80H160V100H0V80Z" fill="black"/>
-<path d="M160 17L80 63.5L0 17L10 8.74228e-07L80 40.5L149.949 8.74228e-07L160 17Z" fill="black"/>
+<path fill-rule="nonzero" clip-rule="evenodd" d="M160 100H0V0H160V100Z M80 63.5L20 28.625V80H140V28.625L80 63.5Z M80 40.5L115.406 20H44.5684L80 40.5Z" fill="black"/>
 </svg>
