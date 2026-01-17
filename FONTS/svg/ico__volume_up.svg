@@ -1,5 +1,5 @@
-<svg width="160" height="120" viewBox="0 0 160 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="nonzero" clip-rule="evenodd" d="M80 120H60V100H0V20H60V0H80V120Z M20 80H60V40H20V80Z" fill="black"/>
-<path d="M100 0C133.137 0 160 26.8629 160 60C160 93.1371 133.137 120 100 120V100C122.091 100 140 82.0914 140 60C140 37.9086 122.091 20 100 20V0Z" fill="black"/>
-<path d="M100 40C111.046 40 120 48.9543 120 60C120 71.0457 111.046 80 100 80V40Z" fill="black"/>
+<svg width="161" height="120" viewBox="0 0 161 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="nonzero" clip-rule="evenodd" d="M80.5 120H60.375V100H0V20H60.375V0H80.5V120Z M20.125 80H60.375V40H20.125V80Z" fill="black"/>
+<path d="M100.625 0C133.969 0 161 26.8629 161 60C161 93.1371 133.969 120 100.625 120V100C122.854 100 140.875 82.0914 140.875 60C140.875 37.9086 122.854 20 100.625 20V0Z" fill="black"/>
+<path d="M100.625 40C111.74 40 120.75 48.9543 120.75 60C120.75 71.0457 111.74 80 100.625 80V40Z" fill="black"/>
 </svg>
