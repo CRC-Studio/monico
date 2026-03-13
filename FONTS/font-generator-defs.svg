@@ -486,13 +486,13 @@
 <path d="M99 80.1667L80.25 90.095V91.6667H99V107H39V91.6667H57.75V89.9915L39 80.1667V61L69 77.4718L99 61" fill="black"/>
 </symbol><symbol viewBox="0 0 120 168" id="ico__bookmark">
 <path fill-rule="nonzero" clip-rule="evenodd" d="M120 168L60 108L0 168V0H120V168Z M20 119.666L20 20 100 20 100 120 60 80 20 119.666Z" fill="black"/>
-</symbol><symbol viewBox="0 0 180 100" id="arrow_double">
+</symbol><symbol viewBox="0 0 180 100" id="ico__arrow_double">
 <path d="M180 50L130.01 99.9902L115.87 85.8506L141.72 60H50V59.9902H38.2803L64.1396 85.8496L50 99.9902L0 49.9902L49.9902 0L64.1299 14.1396L38.2803 39.9902H80V40H141.72L115.86 14.1406L130 0L180 50Z" fill="black"/>
-</symbol><symbol viewBox="0 0 200 100" id="link">
+</symbol><symbol viewBox="0 0 200 100" id="ico__link">
 <path d="M90 20H50C33.4315 20 20 33.4315 20 50C20 66.5685 33.4315 80 50 80H90V100H50C22.3858 100 0 77.6142 0 50C0 22.3858 22.3858 0 50 0H90V20Z" fill="black"/>
 <path d="M150 0C177.614 0 200 22.3858 200 50C200 77.6142 177.614 100 150 100H110V80H150C166.569 80 180 66.5685 180 50C180 33.4315 166.569 20 150 20H110V0H150Z" fill="black"/>
 <path d="M140 60H60V40H140V60Z" fill="black"/>
-</symbol><symbol viewBox="0 0 160 160" id="translate">
+</symbol><symbol viewBox="0 0 160 160" id="ico__translate">
 <path d="M20 140H40V160H0V120H20V140Z" fill="black"/>
 <path fill-rule="nonzero" clip-rule="evenodd" d="M160 160H140L132.5 140H87.5L80 160H60L100 60H120L160 160Z M95 120L110 80 125 120 95 120Z" fill="black"/>
 <path d="M100 20C100 42.0914 82.0914 60 60 60H40C40 82.0914 22.0914 100 0 100V80C11.0457 80 20 71.0457 20 60V40H60C71.0457 40 80 31.0457 80 20H0V0H100V20Z" fill="black"/>

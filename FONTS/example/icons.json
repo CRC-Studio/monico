@@ -1936,9 +1936,9 @@
     "id": "343:2",
     "svg": "<svg width=\"180\" height=\"100\" viewBox=\"0 0 180 100\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M180 50L130.01 99.9902L115.87 85.8506L141.72 60H50V59.9902H38.2803L64.1396 85.8496L50 99.9902L0 49.9902L49.9902 0L64.1299 14.1396L38.2803 39.9902H80V40H141.72L115.86 14.1406L130 0L180 50Z\" fill=\"black\"/>\n</svg>",
     "svgFile": {},
-    "name": "arrow_double",
+    "name": "ico__arrow_double",
     "ligature": [
-      "arrow_double"
+      "ico__arrow_double"
     ],
     "unicode": [
       "ue9a1"
@@ -1948,9 +1948,9 @@
     "id": "356:2",
     "svg": "<svg width=\"200\" height=\"100\" viewBox=\"0 0 200 100\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M90 20H50C33.4315 20 20 33.4315 20 50C20 66.5685 33.4315 80 50 80H90V100H50C22.3858 100 0 77.6142 0 50C0 22.3858 22.3858 0 50 0H90V20Z\" fill=\"black\"/>\n<path d=\"M150 0C177.614 0 200 22.3858 200 50C200 77.6142 177.614 100 150 100H110V80H150C166.569 80 180 66.5685 180 50C180 33.4315 166.569 20 150 20H110V0H150Z\" fill=\"black\"/>\n<path d=\"M140 60H60V40H140V60Z\" fill=\"black\"/>\n</svg>",
     "svgFile": {},
-    "name": "link",
+    "name": "ico__link",
     "ligature": [
-      "link"
+      "ico__link"
     ],
     "unicode": [
       "ue9a2"
@@ -1960,9 +1960,9 @@
     "id": "356:63",
     "svg": "<svg width=\"160\" height=\"160\" viewBox=\"0 0 160 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M20 140H40V160H0V120H20V140Z\" fill=\"black\"/>\n<path fill-rule=\"nonzero\" clip-rule=\"evenodd\" d=\"M160 160H140L132.5 140H87.5L80 160H60L100 60H120L160 160Z M95 120L110 80 125 120 95 120Z\" fill=\"black\"/>\n<path d=\"M100 20C100 42.0914 82.0914 60 60 60H40C40 82.0914 22.0914 100 0 100V80C11.0457 80 20 71.0457 20 60V40H60C71.0457 40 80 31.0457 80 20H0V0H100V20Z\" fill=\"black\"/>\n<path d=\"M160 40H140V20H120V0H160V40Z\" fill=\"black\"/>\n</svg>",
     "svgFile": {},
-    "name": "translate",
+    "name": "ico__translate",
     "ligature": [
-      "translate"
+      "ico__translate"
     ],
     "unicode": [
       "ue9a3"
