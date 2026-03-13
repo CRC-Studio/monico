@@ -1,0 +1,6 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M60 180H80V200H40V160H60V180Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M200 200H180L172.5 180H127.5L120 200H100L140 100H160L200 200ZM135 160H165L150 120L135 160Z" fill="black"/>
+<path d="M140 60C140 82.0914 122.091 100 100 100H80C80 122.091 62.0914 140 40 140V120C51.0457 120 60 111.046 60 100V80H100C111.046 80 120 71.0457 120 60H40V40H140V60Z" fill="black"/>
+<path d="M200 80H180V60H160V40H200V80Z" fill="black"/>
+</svg>
