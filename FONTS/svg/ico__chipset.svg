@@ -1,0 +1,22 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M60 60H120V80H60V60Z" fill="black"/>
+<path d="M30 20H150V40H30V20Z" fill="black"/>
+<path d="M30 140H150V160H30V140Z" fill="black"/>
+<path d="M60 100H120V120H60V100Z" fill="black"/>
+<path d="M60 110L60 70H80L80 110H60Z" fill="black"/>
+<path d="M40 40L40 4.37114e-07L60 0L60 40H40Z" fill="black"/>
+<path d="M40 180L40 140H60L60 180H40Z" fill="black"/>
+<path d="M120 40V4.37114e-07L140 0V40H120Z" fill="black"/>
+<path d="M120 180V140H140V180H120Z" fill="black"/>
+<path d="M80 40V4.37114e-07L100 0L100 40H80Z" fill="black"/>
+<path d="M80 180V140H100L100 180H80Z" fill="black"/>
+<path d="M40 140H1.31134e-06L0 120H40L40 140Z" fill="black"/>
+<path d="M180 140H140V120H180V140Z" fill="black"/>
+<path d="M40 60L1.31134e-06 60L0 40H40V60Z" fill="black"/>
+<path d="M180 60L140 60V40L180 40V60Z" fill="black"/>
+<path d="M40 100L1.31134e-06 100L0 80H40V100Z" fill="black"/>
+<path d="M180 100L140 100V80H180V100Z" fill="black"/>
+<path d="M20 160L20 20L40 20L40 160H20Z" fill="black"/>
+<path d="M100 110V70H120L120 110H100Z" fill="black"/>
+<path d="M140 160V20L160 20V160H140Z" fill="black"/>
+</svg>
