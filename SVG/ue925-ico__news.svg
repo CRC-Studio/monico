@@ -1,8 +1,8 @@
 <svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M180 70H100V90H180V70Z" fill="black"/>
-<path d="M80 70H60V130H80V70Z" fill="black"/>
-<path d="M180 110H100V130H180V110Z" fill="black"/>
-<path d="M180 150H100V170H180V150Z" fill="black"/>
-<path d="M80 150H60V170H80V150Z" fill="black"/>
-<path d="M220 30H20V210H220V30ZM40 50H200V190H40V50Z" fill="black"/>
+<path d="M80 170H60V150H80V170Z" fill="black"/>
+<path d="M180 170H100V150H180V170Z" fill="black"/>
+<path d="M80 130H60V70H80V130Z" fill="black"/>
+<path d="M180 130H100V110H180V130Z" fill="black"/>
+<path d="M180 90H100V70H180V90Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M220 30V210H20V30H220ZM40 50V190H200V50H40Z" fill="black"/>
 </svg>
