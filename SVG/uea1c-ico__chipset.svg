@@ -1,0 +1,22 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="90" y="90" width="60" height="20" fill="black"/>
+<rect x="60" y="50" width="120" height="20" fill="black"/>
+<rect x="60" y="170" width="120" height="20" fill="black"/>
+<rect x="90" y="130" width="60" height="20" fill="black"/>
+<rect x="90" y="140" width="40" height="20" transform="rotate(-90 90 140)" fill="black"/>
+<rect x="70" y="70" width="40" height="20" transform="rotate(-90 70 70)" fill="black"/>
+<rect x="70" y="210" width="40" height="20" transform="rotate(-90 70 210)" fill="black"/>
+<rect x="150" y="70" width="40" height="20" transform="rotate(-90 150 70)" fill="black"/>
+<rect x="150" y="210" width="40" height="20" transform="rotate(-90 150 210)" fill="black"/>
+<rect x="110" y="70" width="40" height="20" transform="rotate(-90 110 70)" fill="black"/>
+<rect x="110" y="210" width="40" height="20" transform="rotate(-90 110 210)" fill="black"/>
+<rect x="70" y="170" width="40" height="20" transform="rotate(180 70 170)" fill="black"/>
+<rect x="210" y="170" width="40" height="20" transform="rotate(180 210 170)" fill="black"/>
+<rect x="70" y="90" width="40" height="20" transform="rotate(180 70 90)" fill="black"/>
+<rect x="210" y="90" width="40" height="20" transform="rotate(180 210 90)" fill="black"/>
+<rect x="70" y="130" width="40" height="20" transform="rotate(180 70 130)" fill="black"/>
+<rect x="210" y="130" width="40" height="20" transform="rotate(180 210 130)" fill="black"/>
+<rect x="50" y="190" width="140" height="20" transform="rotate(-90 50 190)" fill="black"/>
+<rect x="130" y="140" width="40" height="20" transform="rotate(-90 130 140)" fill="black"/>
+<rect x="170" y="190" width="140" height="20" transform="rotate(-90 170 190)" fill="black"/>
+</svg>
