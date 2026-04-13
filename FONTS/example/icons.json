@@ -2006,11 +2006,11 @@
   },
   {
     "id": "368:2",
-    "svg": "<svg width=\"200\" height=\"200\" viewBox=\"0 0 200 200\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"nonzero\" clip-rule=\"evenodd\" d=\"M100 0C155.23 0 200 44.77 200 100C200 155.23 155.23 200 100 200C44.77 200 0 155.23 0 100C0 44.77 44.77 0 100 0Z M36.8027 50.9443C26.2715 64.4914 20 81.5138 20 100C20 144.18 55.82 180 100 180C118.486 180 135.508 173.727 149.055 163.196L36.8027 50.9443Z M100 20C81.5138 20 64.4914 26.2715 50.9443 36.8027L163.196 149.055C173.727 135.508 180 118.486 180 100C180 55.82 144.18 20 100 20Z\" fill=\"black\"/>\n</svg>",
+    "svg": "<svg width=\"160\" height=\"160\" viewBox=\"0 0 160 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"nonzero\" clip-rule=\"evenodd\" d=\"M80 0C124.183 0 160 35.8172 160 80C160 124.183 124.183 160 80 160C35.8172 160 0 124.183 0 80C0 35.8172 35.8172 0 80 0Z M31.0918 45.2334C24.107 55.0417 20 67.0415 20 80C20 113.137 46.8629 140 80 140C93.3891 140 105.753 135.613 115.735 128.2C115.414 128.439 115.092 128.675 114.766 128.907L31.0918 45.2334Z M80 20C67.0415 20 55.0417 24.107 45.2334 31.0918L128.907 114.766C128.437 115.426 127.952 116.075 127.456 116.715C135.318 106.567 140 93.8308 140 80C140 46.8629 113.137 20 80 20Z\" fill=\"black\"/>\n</svg>",
     "svgFile": {},
-    "name": "ico__block",
+    "name": "ico__not_allowed",
     "ligature": [
-      "ico__block"
+      "ico__not_allowed"
     ],
     "unicode": [
       "ue9a9"
@@ -2449,18 +2449,6 @@
     ]
   },
   {
-    "id": "408:2",
-    "svg": "<svg width=\"160\" height=\"160\" viewBox=\"0 0 160 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M160 160H0V110H20V140H140V20H20V50H0V0H160V160Z\" fill=\"black\"/>\n<path d=\"M120 80L70.0098 129.99L55.8701 115.85L81.7197 90H0V70H81.7197L55.8604 44.1396L70 30L120 80Z\" fill=\"black\"/>\n</svg>",
-    "svgFile": {},
-    "name": "ico__exit2",
-    "ligature": [
-      "ico__exit2"
-    ],
-    "unicode": [
-      "ue9ce"
-    ]
-  },
-  {
     "id": "408:4",
     "svg": "<svg width=\"160\" height=\"180\" viewBox=\"0 0 160 180\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M20 40L20 160H140V40H160V180H6.11959e-06L0 40H20Z\" fill=\"black\"/>\n<path d=\"M80 0L129.99 49.9902L115.85 64.1299L90 38.2803V100H70V38.2803L44.1396 64.1396L30 50L80 0Z\" fill=\"black\"/>\n</svg>",
     "svgFile": {},
@@ -2800,9 +2788,9 @@
     "id": "443:2",
     "svg": "<svg width=\"180\" height=\"180\" viewBox=\"0 0 180 180\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"nonzero\" clip-rule=\"evenodd\" d=\"M80 180H0V100H80V180Z M20 160H60V120H20V160Z\" fill=\"black\"/>\n<path fill-rule=\"nonzero\" clip-rule=\"evenodd\" d=\"M180 180H100V100H180V180Z M120 160H160V120H120V160Z\" fill=\"black\"/>\n<path fill-rule=\"nonzero\" clip-rule=\"evenodd\" d=\"M130 80H50V0H130V80Z M70 60H110V20H70V60Z\" fill=\"black\"/>\n</svg>",
     "svgFile": {},
-    "name": "ico__block2",
+    "name": "ico__block",
     "ligature": [
-      "ico__block2"
+      "ico__block"
     ],
     "unicode": [
       "ue9eb"
@@ -3466,6 +3454,18 @@
     ],
     "unicode": [
       "ue9ca"
+    ]
+  },
+  {
+    "id": "495:2",
+    "svg": "<svg width=\"160\" height=\"160\" viewBox=\"0 0 160 160\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M160 80C160 35.8172 124.183 0 80 0C35.8172 0 0 35.8172 0 80V160H80C124.183 160 160 124.183 160 80Z\" fill=\"black\"/>\n</svg>",
+    "svgFile": {},
+    "name": "ico__comment_solid",
+    "ligature": [
+      "ico__comment_solid"
+    ],
+    "unicode": [
+      "ue9ce"
     ]
   }
 ]

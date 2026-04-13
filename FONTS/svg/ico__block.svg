@@ -1,3 +1,5 @@
-<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="nonzero" clip-rule="evenodd" d="M100 0C155.23 0 200 44.77 200 100C200 155.23 155.23 200 100 200C44.77 200 0 155.23 0 100C0 44.77 44.77 0 100 0Z M36.8027 50.9443C26.2715 64.4914 20 81.5138 20 100C20 144.18 55.82 180 100 180C118.486 180 135.508 173.727 149.055 163.196L36.8027 50.9443Z M100 20C81.5138 20 64.4914 26.2715 50.9443 36.8027L163.196 149.055C173.727 135.508 180 118.486 180 100C180 55.82 144.18 20 100 20Z" fill="black"/>
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="nonzero" clip-rule="evenodd" d="M80 180H0V100H80V180Z M20 160H60V120H20V160Z" fill="black"/>
+<path fill-rule="nonzero" clip-rule="evenodd" d="M180 180H100V100H180V180Z M120 160H160V120H120V160Z" fill="black"/>
+<path fill-rule="nonzero" clip-rule="evenodd" d="M130 80H50V0H130V80Z M70 60H110V20H70V60Z" fill="black"/>
 </svg>
