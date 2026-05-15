@@ -1,0 +1,14 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M40 0H120V20H40V0Z" fill="black"/>
+<path d="M160 40V120H140V40H160Z" fill="black"/>
+<path d="M120 10V60H100V10L120 10Z" fill="black"/>
+<path d="M150 120L100 120V100L150 100V120Z" fill="black"/>
+<path d="M60 10L60 60H40L40 10L60 10Z" fill="black"/>
+<path d="M150 60H100V40L150 40V60Z" fill="black"/>
+<path d="M120 160H40V140H120V160Z" fill="black"/>
+<path d="M0 120L1.04907e-05 40L20 40L20 120H0Z" fill="black"/>
+<path d="M40 150L40 100H60L60 150H40Z" fill="black"/>
+<path d="M10 40L60 40L60 60L10 60L10 40Z" fill="black"/>
+<path d="M100 150V100H120L120 150H100Z" fill="black"/>
+<path d="M10 100H60V120L10 120L10 100Z" fill="black"/>
+</svg>

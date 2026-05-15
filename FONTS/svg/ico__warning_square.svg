@@ -1,0 +1,5 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M90 120C95.5226 120 99.9999 124.477 100 130C100 135.523 95.5227 140 90 140C84.4774 140 80 135.523 80 130C80.0001 124.478 84.4775 120 90 120Z" fill="black"/>
+<path d="M100 100H80V40H100V100Z" fill="black"/>
+<path fill-rule="nonzero" clip-rule="evenodd" d="M180 180H0V0H180V180Z M20 160H160V20H20V160Z" fill="black"/>
+</svg>
