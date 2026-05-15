@@ -1,0 +1,14 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="20" y="160" width="50" height="20" fill="black"/>
+<rect x="20" y="80" width="200" height="20" fill="black"/>
+<rect x="70" y="20" width="100" height="20" fill="black"/>
+<rect x="70" y="200" width="70" height="20" fill="black"/>
+<rect x="70" y="140" width="72" height="20" fill="black"/>
+<rect x="200" y="140" width="50" height="20" transform="rotate(-90 200 140)" fill="black"/>
+<rect x="160" y="100" width="80" height="20" transform="rotate(-90 160 100)" fill="black"/>
+<rect x="60" y="100" width="80" height="20" transform="rotate(-90 60 100)" fill="black"/>
+<rect x="60" y="220" width="80" height="20" transform="rotate(-90 60 220)" fill="black"/>
+<rect x="20" y="170" width="80" height="20" transform="rotate(-90 20 170)" fill="black"/>
+<path d="M170 110C175.523 110 180 114.477 180 120C180 125.523 175.523 130 170 130C164.477 130 160 125.523 160 120C160 114.478 164.478 110 170 110Z" fill="black"/>
+<path d="M200 180V160H180V180H160V200H180V220H200V200H220V180H200Z" fill="black"/>
+</svg>
