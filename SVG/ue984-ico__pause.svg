@@ -1,4 +1,4 @@
 <svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="70" y="60" width="30" height="120" fill="black"/>
-<rect x="140" y="60" width="30" height="120" fill="black"/>
+<path d="M100 180H70V60H100V180Z" fill="black"/>
+<path d="M170 180H140V60H170V180Z" fill="black"/>
 </svg>

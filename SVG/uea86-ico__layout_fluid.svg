@@ -1,6 +1,6 @@
 <svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="40" y="40" width="70" height="60" stroke="black" stroke-width="20"/>
-<rect x="200" y="200" width="70" height="60" transform="rotate(-180 200 200)" stroke="black" stroke-width="20"/>
-<rect x="150" y="40" width="50" height="60" stroke="black" stroke-width="20"/>
-<rect x="90" y="200" width="50" height="60" transform="rotate(-180 90 200)" stroke="black" stroke-width="20"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M100 210H30V130H100V210ZM50 190H80V150H50V190Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M210 210H120V130H210V210ZM140 190H190V150H140V190Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M120 110H30V30H120V110ZM50 90H100V50H50V90Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M210 110H140V30H210V110ZM160 90H190V50H160V90Z" fill="black"/>
 </svg>
